@@ -9,3 +9,5 @@
 ## 3. Regularization
 1. Ridge regression
 2. LASSO regression
+## Reference 
+[1] Shubham Jain, "A comprehensive beginners guide for Linear, Ridge and Lasso Regression" (https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
