@@ -1,4 +1,4 @@
-# examples
+# Linear Models
 ## Basics in Linear regression <br>
 1. Linear in parameter space but non-linear in the feature space <br>
 2. Model complexity and overfitting <br>
